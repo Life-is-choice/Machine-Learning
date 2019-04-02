@@ -1,0 +1,13 @@
+<回归>
+
+主线是模型和参数
+
+需要注意的是向量化如何进行：遇到i的for逻辑时，将实体样本(i）写成列分量形成新向量
+
+标准化特征对列使用x-mean/std
+
+绘图
+linspace(from,to,n)
+plot(x,y)
+surface(x,y,z)
+contour(x,y,z)
