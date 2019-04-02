@@ -1,12 +1,12 @@
-<»Ø¹é>
+<å›žå½’>
 
-Ö÷ÏßÊÇÄ£ÐÍºÍ²ÎÊý
+ä¸»çº¿æ˜¯æ¨¡åž‹-å›žå½’-å‚æ•°
 
-ÐèÒª×¢ÒâµÄÊÇÏòÁ¿»¯ÈçºÎ½øÐÐ£ºÓöµ½iµÄforÂß¼­Ê±£¬½«ÊµÌåÑù±¾(i£©Ð´³ÉÁÐ·ÖÁ¿ÐÎ³ÉÐÂÏòÁ¿
+éœ€è¦æ³¨æ„çš„æ˜¯å‘é‡åŒ–å¦‚ä½•è¿›è¡Œï¼šé‡åˆ°içš„foré€»è¾‘æ—¶ï¼Œå°†å®žä½“æ ·æœ¬(iï¼‰å†™æˆåˆ—åˆ†é‡å½¢æˆæ–°å‘é‡
 
-±ê×¼»¯ÌØÕ÷¶ÔÁÐÊ¹ÓÃx-mean/std
+æ ‡å‡†åŒ–ç‰¹å¾å¯¹åˆ—ä½¿ç”¨x-mean/std
 
-»æÍ¼
+ç»˜å›¾
 linspace(from,to,n)
 plot(x,y)
 surface(x,y,z)
